@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+redis==5.2.1
+python-dotenv==1.0.1
+httpx==0.28.1
+# Base IANA para zoneinfo en Windows (America/Mexico_City, etc.)
+tzdata>=2024.2
+google-api-python-client>=2.130.0
+google-auth>=2.29.0
+python-dateutil>=2.9.0
+dateparser>=1.2.0

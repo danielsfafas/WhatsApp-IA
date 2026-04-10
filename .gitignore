@@ -1,0 +1,8 @@
+node_modules/
+baileys_auth_info/
+.env
+.venv/
+__pycache__/
+*.pyc
+wa-logs.txt
+google-calendar-sa.json
